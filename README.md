@@ -1,7 +1,7 @@
 # Установка
 
 ```
-git clone https://github.com/blastyourstuff/guide.djs.git
+git clone https://github.com/Dejelnieks/discordbot-js
 cd guide.djs
 npm install
 ```
